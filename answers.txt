@@ -1,0 +1,7 @@
+Q1. .gitignore files contains the file paths, folder paths or extensions that should be ignored while maintaining a version control. A .gitigonre file for JAVA should ignore all the .class files project files of the IDE.
+
+Q2. Git fast-forward means updating the HEAD of the branch to the latest commit. The commit should be a direct descendent i.e., the commit history should not diverge.
+
+Q3. Having different branches makes it easier to track changes and avoid breaking of code. Any new change should be done on a different branch, then the change should be tested and then merged to master to avoid faulty code being merged in master.
+ 
+Q4. We usually have 1-2 repository. If it is a backend application or an API, one repository is enough. If it is a user facing web-app, we have different repositories for frontend and backend.
